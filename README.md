@@ -2,6 +2,11 @@
 
 # Chat Application
 
+<p align="center">
+  <img src="https://github.com/younusFoysal/HR-Hub-Pro-Server/blob/main/images/chat.png" alt="Chat Application">
+</p>
+<br>
+
 ## Overview
 This is a simple online chat application built in Java using socket programming. The application allows multiple clients to connect to a central server, send messages, and receive messages in real time. It is implemented with a text-based user interface.
 
