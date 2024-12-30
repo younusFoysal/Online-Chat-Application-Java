@@ -3,7 +3,7 @@
 # Chat Application
 
 <p align="center">
-  <img src="https://github.com/younusFoysal/Online-Chat-Application-Java/blob/main/images/chat.png" alt="Chat Application">
+  <img src="https://github.com/younusFoysal/Online-Chat-Application-Java/blob/main/Image/chat.png" alt="Chat Application">
 </p>
 <br>
 
